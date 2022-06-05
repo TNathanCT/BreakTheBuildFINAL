@@ -10,22 +10,3 @@ The devil is in the details is a first person horror-puzzle game inspired by som
 
 Video of the game:
 https://www.youtube.com/watch?v=LZi61NI38TU
-
-...........................................................................................................................................
-
-Personal write up of the creators:
-
-Angela Cai: https://github.com/tianshucai/Term_1_Programming_Modelling_HandIn/blob/master/README.md 
-
-Toby Christmas:
-
-Pablo Bueno Melchor :
-Modeling and art: https://docs.google.com/presentation/d/1R25MJ-rpYaOmYNt0ER-5Bo0-qFUjkszHPa3FWCXkvBA/edit#slide=id.g2cdf4013f3_0_50
-programing:   https://docs.google.com/presentation/d/15a5tMi8vsle_7pO9MWLYKlHUJ7hs5nN4iCHUMfRB5zw/edit?usp=sharing
-
-Thomas Nathan:         https://github.com/TNathanCT/All-work-done-in-Break-the-Build-Project.git
-
-Luis Armas Suarez:     https://github.com/luarsu/TheDevilIsInTheDetailsWriteUp/blob/master/README.md
-
-Gabriela Woch:         https://github.com/gwoch/Reveal_Stairway_Material_and_Documents.git
-                       https://docs.google.com/presentation/d/1FZ4CcA1J0ke7pErpJ1tSn_yeQcBYTYDj3qK3JxCZsdo/edit?usp=sharing
